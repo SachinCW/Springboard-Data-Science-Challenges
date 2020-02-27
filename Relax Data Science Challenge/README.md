@@ -48,3 +48,7 @@ Feature creation_source takes on one of 5 values:
 **2]** A usage summary table ( "takehome_user_engagement" ) that has a row for each day that a user logged into the product.
 
 ### Defining an "adopted user" as a user who has logged into the product on three separate days in at least one sevenday period, identify which factors predict future user adoption .
+
+### Results and Visualization ( Details are in the Jupyter Notebook )
+
+![1](https://github.com/SachinCW/Springboard-Data-Science-Challenges/blob/master/Relax%20Data%20Science%20Challenge/classification%20report.JPG)
