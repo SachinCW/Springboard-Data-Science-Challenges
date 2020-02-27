@@ -52,3 +52,9 @@ Feature creation_source takes on one of 5 values:
 ### Results and Visualization ( Details are in the Jupyter Notebook )
 
 ![1](https://github.com/SachinCW/Springboard-Data-Science-Challenges/blob/master/Relax%20Data%20Science%20Challenge/classification%20report.JPG)
+
+![2](https://github.com/SachinCW/Springboard-Data-Science-Challenges/blob/master/Relax%20Data%20Science%20Challenge/features%20importance.JPG)
+
+![3](https://github.com/SachinCW/Springboard-Data-Science-Challenges/blob/master/Relax%20Data%20Science%20Challenge/visual%20features%20importance.JPG)
+
+![4](https://github.com/SachinCW/Springboard-Data-Science-Challenges/blob/master/Relax%20Data%20Science%20Challenge/ECDF.JPG)
